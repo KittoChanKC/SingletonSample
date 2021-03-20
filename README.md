@@ -25,9 +25,13 @@ This is a very simple idea for handling singleton as DontDestoryObject.
     - destroy self automatically
     
 Setup is simple.
+
 Make all your singleton gameobjects as prefabs.
+
 Setup the list on SingletonLoader.
+
 Make the SingletonLoader as prefab.
+
 You need no singletone gameobjects in the scene but only one SingletonLoader in every scene.
 
 Please refer to the SampleScene in Assets.
