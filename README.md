@@ -3,7 +3,9 @@
 A Sample of Singleton.
 
 Handling singleton with single scene is very simple.
+
 Handling singleton as DontDestoryObject is not so simple.
+
 
 This is a very simple idea for handling singleton as DontDestoryObject.
 
